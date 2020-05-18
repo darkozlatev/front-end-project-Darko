@@ -1,1 +1,1 @@
-const serverURL = "https://teamaapiproject.herokuapp.com";
+const serverURL = "https://darkozlatevapi.herokuapp.com";
